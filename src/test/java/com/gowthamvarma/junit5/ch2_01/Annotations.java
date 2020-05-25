@@ -29,6 +29,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 import example.util.Calculator;
 
+//@Disabled
 @TestMethodOrder(OrderAnnotation.class)
 @TestInstance(Lifecycle.PER_CLASS)
 @DisplayName("A special test case")

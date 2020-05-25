@@ -8,6 +8,7 @@ class DisabledClassDemo {
 
 	@Test
 	void testWillBeSkipped() {
+		
 	}
 
 }
